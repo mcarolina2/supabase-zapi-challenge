@@ -90,8 +90,3 @@ python main.py
 - Logs estruturados em console e no arquivo `app.log`.
 - Falha em um envio individual não interrompe os demais (o script continua e reporta o resumo no final).
 - Variáveis de ambiente ausentes geram erro claro antes de qualquer chamada externa.
-
-## Licença
-
-Projeto de teste técnico, sem licença específica.
-
